@@ -1,6 +1,6 @@
 # Hey, I'm Malik 👋
 
-- IT Security Specialist transitioning into Cloud Engineering
+- IT Security Specialist ----> Cloud Security Engineering
 - Currently building with **AWS**, **Terraform**, and **CI/CD pipelines**
 - Army Veteran passionate about helping fellow veterans transition into tech
 - I built [VetSITREP](https://www.vetsitrep.us/) — an AI-powered platform for veteran career transitions
